@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RougeAce
 - 👀 I’m interested in finance
-- 🌱 I’m currently learning Network Security
+- 🌱 I’m currently working on an open source quantative finaiancal anyalsis tool.
 - 💞️ I’m looking to collaborate on making more open source libraries 
 
 
